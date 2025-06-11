@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4810,6 +4810,51 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## Target Speaker Extraction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276](http://arxiv.org/abs/2506.05276)|null|
+|**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285](http://arxiv.org/abs/2506.01285)|null|
+|**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
+|**2025-05-31**|**M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction**|Cunhang Fan et.al.|[2506.00466](http://arxiv.org/abs/2506.00466)|**[link](https://github.com/fchest/m3anet)**|
+|**2025-05-30**|**MotionPersona: Characteristics-aware Locomotion Control**|Mingyi Shi et.al.|[2506.00173](http://arxiv.org/abs/2506.00173)|null|
+|**2025-05-28**|**Two-stage Audio-Visual Target Speaker Extraction System for Real-Time Processing On Edge Device**|Zixuan Li et.al.|[2505.22229](http://arxiv.org/abs/2505.22229)|null|
+|**2025-05-24**|**Towards Emotionally Consistent Text-Based Speech Editing: Introducing EmoCorrector and The ECD-TSE Dataset**|Rui Liu et.al.|[2505.20341](http://arxiv.org/abs/2505.20341)|null|
+|**2025-05-31**|**SoloSpeech: Enhancing Intelligibility and Quality in Target Speech Extraction through a Cascaded Generative Pipeline**|Helin Wang et.al.|[2505.19314](http://arxiv.org/abs/2505.19314)|**[link](https://github.com/wanghelin1997/solospeech)**|
+|**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
+|**2025-05-20**|**FlowTSE: Target Speaker Extraction with Flow Matching**|Aviv Navon et.al.|[2505.14465](http://arxiv.org/abs/2505.14465)|null|
+
+## Speech Separation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880](http://arxiv.org/abs/2506.07880)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
+|**2025-06-07**|**A Fast and Lightweight Model for Causal Audio-Visual Speech Separation**|Wendi Sang et.al.|[2506.06689](http://arxiv.org/abs/2506.06689)|null|
+|**2025-06-06**|**Full Conformal Adaptation of Medical Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2506.06076](http://arxiv.org/abs/2506.06076)|null|
+|**2025-06-03**|**Euclid preparation. Constraining parameterised models of modifications of gravity with the spectroscopic and photometric primary probes**|Euclid Collaboration et.al.|[2506.03008](http://arxiv.org/abs/2506.03008)|null|
+|**2025-06-03**|**Learning Binarized Representations with Pseudo-positive Sample Enhancement for Efficient Graph Collaborative Filtering**|Yankai Chen et.al.|[2506.02750](http://arxiv.org/abs/2506.02750)|null|
+|**2025-06-01**|**Self-Supervised-ISAR-Net Enables Fast Sparse ISAR Imaging**|Ziwen Wang et.al.|[2506.01038](http://arxiv.org/abs/2506.01038)|null|
+|**2025-06-01**|**Generalized Linear Markov Decision Process**|Sinian Zhang et.al.|[2506.00818](http://arxiv.org/abs/2506.00818)|null|
+|**2025-05-30**|**AniTrack: A Power-Efficient, Time-Slotted and Robust UWB Localization System for Animal Tracking in a Controlled Setting**|Victor Luder et.al.|[2506.00216](http://arxiv.org/abs/2506.00216)|null|
+|**2025-05-29**|**Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election: Polynomial States Meet Sublinear Time**|Yuichi Sudo et.al.|[2505.23649](http://arxiv.org/abs/2505.23649)|null|
+
+## Keyword Spotting
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
+|**2025-06-03**|**Characterization of the VKI Plasmatron subsonic ICP jet combining optical emission spectroscopy, intrusive measurements, and CFD simulations**|Andrea Fagnani et.al.|[2506.02469](http://arxiv.org/abs/2506.02469)|null|
+|**2025-06-02**|**WCTC-Biasing: Retraining-free Contextual Biasing ASR with Wildcard CTC-based Keyword Spotting and Inter-layer Biasing**|Yu Nakagome et.al.|[2506.01263](http://arxiv.org/abs/2506.01263)|null|
+|**2025-06-01**|**Speech Unlearning**|Jiali Cheng et.al.|[2506.00848](http://arxiv.org/abs/2506.00848)|null|
+|**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|**[link](https://github.com/cogsys-tudelft/chameleon)**|
+|**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
+|**2025-05-29**|**LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting**|Pai Zhu et.al.|[2505.22995](http://arxiv.org/abs/2505.22995)|null|
+|**2025-05-27**|**Design and Analysis of a Grid-connected DC Fast Charging Station for Dhaka-Chittagong Highway**|Alif Ahmed et.al.|[2505.21648](http://arxiv.org/abs/2505.21648)|null|
+|**2025-05-30**|**MFA-KWS: Effective Keyword Spotting with Multi-head Frame-asynchronous Decoding**|Yu Xi et.al.|[2505.19577](http://arxiv.org/abs/2505.19577)|**[link](https://github.com/x-lance/kwstreamingsearch)**|
+|**2025-05-23**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735](http://arxiv.org/abs/2505.16735)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
