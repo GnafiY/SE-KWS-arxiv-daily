@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276](http://arxiv.org/abs/2506.05276)|null|
 |**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285](http://arxiv.org/abs/2506.01285)|null|
 |**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
@@ -4830,6 +4831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Instance-Based Transfer Learning with Similarity-Aware Subject Selection for Cross-Subject SSVEP-Based BCIs**|Ziwen Wang et.al.|[2506.10933](http://arxiv.org/abs/2506.10933)|null|
 |**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880](http://arxiv.org/abs/2506.07880)|null|
 |**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
 |**2025-06-07**|**A Fast and Lightweight Model for Causal Audio-Visual Speech Separation**|Wendi Sang et.al.|[2506.06689](http://arxiv.org/abs/2506.06689)|null|
@@ -4845,7 +4847,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-09**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
+|**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911](http://arxiv.org/abs/2506.08911)|null|
+|**2025-06-10**|**SPBA: Utilizing Speech Large Language Model for Backdoor Attacks on Speech Classification Models**|Wenhan Yao et.al.|[2506.08346](http://arxiv.org/abs/2506.08346)|null|
+|**2025-06-11**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
 |**2025-06-03**|**Characterization of the VKI Plasmatron subsonic ICP jet combining optical emission spectroscopy, intrusive measurements, and CFD simulations**|Andrea Fagnani et.al.|[2506.02469](http://arxiv.org/abs/2506.02469)|null|
 |**2025-06-02**|**WCTC-Biasing: Retraining-free Contextual Biasing ASR with Wildcard CTC-based Keyword Spotting and Inter-layer Biasing**|Yu Nakagome et.al.|[2506.01263](http://arxiv.org/abs/2506.01263)|null|
 |**2025-06-01**|**Speech Unlearning**|Jiali Cheng et.al.|[2506.00848](http://arxiv.org/abs/2506.00848)|null|
