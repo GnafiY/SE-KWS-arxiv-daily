@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,7 +4815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-11**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
+|**2025-06-17**|**Dark Matter signals in solar neutrinos fluxes as probe of non-linear symmetry breaking**|A. Carrillo-Monteverde et.al.|[2506.14089](http://arxiv.org/abs/2506.14089)|null|
+|**2025-06-15**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276](http://arxiv.org/abs/2506.05276)|null|
 |**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285](http://arxiv.org/abs/2506.01285)|null|
 |**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
@@ -4831,6 +4832,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Subthreshold Swing Behavior in Amorphous Indium-Gallium-Zinc-Oxide Transistors from Room to Cryogenic Temperatures**|Hongwei Tang et.al.|[2506.15238](http://arxiv.org/abs/2506.15238)|null|
+|**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
+|**2025-06-17**|**Improving Practical Aspects of End-to-End Multi-Talker Speech Recognition for Online and Offline Scenarios**|Aswin Shanmugam Subramanian et.al.|[2506.14204](http://arxiv.org/abs/2506.14204)|null|
+|**2025-06-16**|**Understand the Implication: Learning to Think for Pragmatic Understanding**|Settaluri Lakshmi Sravanthi et.al.|[2506.13559](http://arxiv.org/abs/2506.13559)|null|
+|**2025-06-14**|**MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation**|Caixu Xu et.al.|[2506.12441](http://arxiv.org/abs/2506.12441)|null|
+|**2025-06-13**|**Holistic approach and Advanced Color Singlet Identification for physics measurements at high energy frontier**|Yongfeng Zhu et.al.|[2506.11783](http://arxiv.org/abs/2506.11783)|null|
 |**2025-06-12**|**Instance-Based Transfer Learning with Similarity-Aware Subject Selection for Cross-Subject SSVEP-Based BCIs**|Ziwen Wang et.al.|[2506.10933](http://arxiv.org/abs/2506.10933)|null|
 |**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880](http://arxiv.org/abs/2506.07880)|null|
 |**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
@@ -4847,6 +4854,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
+|**2025-06-17**|**Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation**|Alex C. Newkirk et.al.|[2506.14551](http://arxiv.org/abs/2506.14551)|null|
+|**2025-06-12**|**GLAP: General contrastive audio-text pretraining across domains and languages**|Heinrich Dinkel et.al.|[2506.11350](http://arxiv.org/abs/2506.11350)|**[link](https://github.com/xiaomi-research/dasheng-glap)**|
+|**2025-06-12**|**Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms**|Soumen Garai et.al.|[2506.11169](http://arxiv.org/abs/2506.11169)|**[link](https://github.com/sumansamui/small-footprint-keyword-spotting)**|
+|**2025-06-06**|**Assessing the Impact of Anisotropy in Neural Representations of Speech: A Case Study on Keyword Spotting**|Guillaume Wisniewski et.al.|[2506.11096](http://arxiv.org/abs/2506.11096)|null|
 |**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911](http://arxiv.org/abs/2506.08911)|null|
 |**2025-06-10**|**SPBA: Utilizing Speech Large Language Model for Backdoor Attacks on Speech Classification Models**|Wenhan Yao et.al.|[2506.08346](http://arxiv.org/abs/2506.08346)|null|
 |**2025-06-11**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
