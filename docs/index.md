@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**ClearerVoice-Studio: Bridging Advanced Speech Processing Research and Practical Deployment**|Shengkui Zhao et.al.|[2506.19398](http://arxiv.org/abs/2506.19398)|null|
 |**2025-06-17**|**Dark Matter signals in solar neutrinos fluxes as probe of non-linear symmetry breaking**|A. Carrillo-Monteverde et.al.|[2506.14089](http://arxiv.org/abs/2506.14089)|null|
 |**2025-06-15**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276](http://arxiv.org/abs/2506.05276)|null|
@@ -4832,6 +4833,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Decision-Focused Learning for Neural Network-Constrained Optimization: Application to HVAC Management System**|Pietro Favaro et.al.|[2506.19717](http://arxiv.org/abs/2506.19717)|null|
+|**2025-06-23**|**Optimized auxiliary functions for robust mitigation of finite-size errors in periodic hybrid density functional theory**|Stephen Jon Quiton et.al.|[2506.19157](http://arxiv.org/abs/2506.19157)|null|
+|**2025-06-23**|**A hybrid nonet with $J^{PC}=1^{-+}$ or a tetraquark 81-plet**|Niu Su et.al.|[2506.18606](http://arxiv.org/abs/2506.18606)|null|
+|**2025-06-23**|**Bayesian integrative factor analysis methods, with application in nutrition and genomics data**|Mavis Liang et.al.|[2506.18479](http://arxiv.org/abs/2506.18479)|null|
+|**2025-06-20**|**Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation**|Julio Silva-Rodríguez et.al.|[2506.17500](http://arxiv.org/abs/2506.17500)|null|
+|**2025-06-20**|**A reduced cost equation of motion coupled cluster method for excited states based on state-specific natural orbitals: Theory, Implementation, Benchmark**|Amrita Manna et.al.|[2506.16894](http://arxiv.org/abs/2506.16894)|null|
+|**2025-06-19**|**State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification**|Gonçalo Granjal Cruz et.al.|[2506.16392](http://arxiv.org/abs/2506.16392)|null|
 |**2025-06-18**|**Subthreshold Swing Behavior in Amorphous Indium-Gallium-Zinc-Oxide Transistors from Room to Cryogenic Temperatures**|Hongwei Tang et.al.|[2506.15238](http://arxiv.org/abs/2506.15238)|null|
 |**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
 |**2025-06-17**|**Improving Practical Aspects of End-to-End Multi-Talker Speech Recognition for Online and Offline Scenarios**|Aswin Shanmugam Subramanian et.al.|[2506.14204](http://arxiv.org/abs/2506.14204)|null|
@@ -4854,6 +4862,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**Low-resource keyword spotting using contrastively trained transformer acoustic word embeddings**|Julian Herreilers et.al.|[2506.17690](http://arxiv.org/abs/2506.17690)|null|
+|**2025-06-21**|**Enhancing Few-shot Keyword Spotting Performance through Pre-Trained Self-supervised Speech Models**|Alican Gok et.al.|[2506.17686](http://arxiv.org/abs/2506.17686)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
 |**2025-06-17**|**Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation**|Alex C. Newkirk et.al.|[2506.14551](http://arxiv.org/abs/2506.14551)|null|
 |**2025-06-12**|**GLAP: General contrastive audio-text pretraining across domains and languages**|Heinrich Dinkel et.al.|[2506.11350](http://arxiv.org/abs/2506.11350)|**[link](https://github.com/xiaomi-research/dasheng-glap)**|

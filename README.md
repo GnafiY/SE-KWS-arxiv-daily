@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -976,7 +976,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## SFM
 
@@ -1401,7 +1401,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2565,7 +2565,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2880,7 +2880,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3214,7 +3214,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## NeRF
 
@@ -4832,12 +4832,13 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ClearerVoice-Studio: Bridging Advanced Speech Processing Research and Practical Deployment**|Shengkui Zhao et.al.|[2506.19398](http://arxiv.org/abs/2506.19398)|null|
 |**2025-06-17**|**Dark Matter signals in solar neutrinos fluxes as probe of non-linear symmetry breaking**|A. Carrillo-Monteverde et.al.|[2506.14089](http://arxiv.org/abs/2506.14089)|null|
 |**2025-06-15**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276](http://arxiv.org/abs/2506.05276)|null|
@@ -4851,12 +4852,19 @@
 |**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
 |**2025-05-20**|**FlowTSE: Target Speaker Extraction with Flow Matching**|Aviv Navon et.al.|[2505.14465](http://arxiv.org/abs/2505.14465)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Speech Separation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Decision-Focused Learning for Neural Network-Constrained Optimization: Application to HVAC Management System**|Pietro Favaro et.al.|[2506.19717](http://arxiv.org/abs/2506.19717)|null|
+|**2025-06-23**|**Optimized auxiliary functions for robust mitigation of finite-size errors in periodic hybrid density functional theory**|Stephen Jon Quiton et.al.|[2506.19157](http://arxiv.org/abs/2506.19157)|null|
+|**2025-06-23**|**A hybrid nonet with $J^{PC}=1^{-+}$ or a tetraquark 81-plet**|Niu Su et.al.|[2506.18606](http://arxiv.org/abs/2506.18606)|null|
+|**2025-06-23**|**Bayesian integrative factor analysis methods, with application in nutrition and genomics data**|Mavis Liang et.al.|[2506.18479](http://arxiv.org/abs/2506.18479)|null|
+|**2025-06-20**|**Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation**|Julio Silva-Rodríguez et.al.|[2506.17500](http://arxiv.org/abs/2506.17500)|null|
+|**2025-06-20**|**A reduced cost equation of motion coupled cluster method for excited states based on state-specific natural orbitals: Theory, Implementation, Benchmark**|Amrita Manna et.al.|[2506.16894](http://arxiv.org/abs/2506.16894)|null|
+|**2025-06-19**|**State-Space Kolmogorov Arnold Networks for Interpretable Nonlinear System Identification**|Gonçalo Granjal Cruz et.al.|[2506.16392](http://arxiv.org/abs/2506.16392)|null|
 |**2025-06-18**|**Subthreshold Swing Behavior in Amorphous Indium-Gallium-Zinc-Oxide Transistors from Room to Cryogenic Temperatures**|Hongwei Tang et.al.|[2506.15238](http://arxiv.org/abs/2506.15238)|null|
 |**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
 |**2025-06-17**|**Improving Practical Aspects of End-to-End Multi-Talker Speech Recognition for Online and Offline Scenarios**|Aswin Shanmugam Subramanian et.al.|[2506.14204](http://arxiv.org/abs/2506.14204)|null|
@@ -4875,12 +4883,14 @@
 |**2025-05-30**|**AniTrack: A Power-Efficient, Time-Slotted and Robust UWB Localization System for Animal Tracking in a Controlled Setting**|Victor Luder et.al.|[2506.00216](http://arxiv.org/abs/2506.00216)|null|
 |**2025-05-29**|**Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election: Polynomial States Meet Sublinear Time**|Yuichi Sudo et.al.|[2505.23649](http://arxiv.org/abs/2505.23649)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Keyword Spotting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-21**|**Low-resource keyword spotting using contrastively trained transformer acoustic word embeddings**|Julian Herreilers et.al.|[2506.17690](http://arxiv.org/abs/2506.17690)|null|
+|**2025-06-21**|**Enhancing Few-shot Keyword Spotting Performance through Pre-Trained Self-supervised Speech Models**|Alican Gok et.al.|[2506.17686](http://arxiv.org/abs/2506.17686)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
 |**2025-06-17**|**Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation**|Alex C. Newkirk et.al.|[2506.14551](http://arxiv.org/abs/2506.14551)|null|
 |**2025-06-12**|**GLAP: General contrastive audio-text pretraining across domains and languages**|Heinrich Dinkel et.al.|[2506.11350](http://arxiv.org/abs/2506.11350)|**[link](https://github.com/xiaomi-research/dasheng-glap)**|
@@ -4899,7 +4909,7 @@
 |**2025-05-30**|**MFA-KWS: Effective Keyword Spotting with Multi-head Frame-asynchronous Decoding**|Yu Xi et.al.|[2505.19577](http://arxiv.org/abs/2505.19577)|**[link](https://github.com/x-lance/kwstreamingsearch)**|
 |**2025-05-23**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735](http://arxiv.org/abs/2505.16735)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
