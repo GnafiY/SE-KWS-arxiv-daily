@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,7 +4815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-25**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
+|**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
+|**2025-06-30**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
 |**2025-06-24**|**ClearerVoice-Studio: Bridging Advanced Speech Processing Research and Practical Deployment**|Shengkui Zhao et.al.|[2506.19398](http://arxiv.org/abs/2506.19398)|null|
 |**2025-06-17**|**Dark Matter signals in solar neutrinos fluxes as probe of non-linear symmetry breaking**|A. Carrillo-Monteverde et.al.|[2506.14089](http://arxiv.org/abs/2506.14089)|null|
 |**2025-06-15**|**Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2506.09792](http://arxiv.org/abs/2506.09792)|null|
@@ -4834,6 +4835,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Multi-Utterance Speech Separation and Association Trained on Short Segments**|Yuzhu Wang et.al.|[2507.02562](http://arxiv.org/abs/2507.02562)|null|
+|**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
+|**2025-07-02**|**Multi-User Generative Semantic Communication with Intent-Aware Semantic-Splitting Multiple Access**|Jiayi Lu et.al.|[2507.01333](http://arxiv.org/abs/2507.01333)|null|
+|**2025-07-01**|**Adiabatic Capacitive Neuron: An Energy-Efficient Functional Unit for Artificial Neural Networks**|Sachin Maheshwari et.al.|[2507.00831](http://arxiv.org/abs/2507.00831)|null|
+|**2025-06-27**|**Multimessenger Emission from Very-High-Energy Black Hole-Jet Systems in the Milky Way**|Jose Carpio et.al.|[2506.22550](http://arxiv.org/abs/2506.22550)|null|
 |**2025-06-24**|**Decision-Focused Learning for Neural Network-Constrained Optimization: Application to HVAC Management System**|Pietro Favaro et.al.|[2506.19717](http://arxiv.org/abs/2506.19717)|null|
 |**2025-06-23**|**Optimized auxiliary functions for robust mitigation of finite-size errors in periodic hybrid density functional theory**|Stephen Jon Quiton et.al.|[2506.19157](http://arxiv.org/abs/2506.19157)|null|
 |**2025-06-23**|**A hybrid nonet with $J^{PC}=1^{-+}$ or a tetraquark 81-plet**|Niu Su et.al.|[2506.18606](http://arxiv.org/abs/2506.18606)|null|
@@ -4863,6 +4869,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|
+|**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim et.al.|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
+|**2025-07-01**|**Research on Improving the High Precision and Lightweight Diabetic Retinopathy Detection of YOLOv8n**|Fei Yuhuan et.al.|[2507.00780](http://arxiv.org/abs/2507.00780)|null|
+|**2025-07-01**|**Insight into the combustion dynamics of ITA-driven swirl flames**|SK Thirumalaikumaran et.al.|[2507.00764](http://arxiv.org/abs/2507.00764)|null|
 |**2025-06-25**|**Effects of flame macrostructures on the combustion dynamics of novel counter-rotating radial swirl injector in a model can combustor**|SK Thirumalaikumaran et.al.|[2506.20138](http://arxiv.org/abs/2506.20138)|null|
 |**2025-06-21**|**Low-resource keyword spotting using contrastively trained transformer acoustic word embeddings**|Julian Herreilers et.al.|[2506.17690](http://arxiv.org/abs/2506.17690)|null|
 |**2025-06-21**|**Enhancing Few-shot Keyword Spotting Performance through Pre-Trained Self-supervised Speech Models**|Alican Gok et.al.|[2506.17686](http://arxiv.org/abs/2506.17686)|null|
