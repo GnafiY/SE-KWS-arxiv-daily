@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Training Strategies for Modality Dropout Resilient Multi-Modal Target Speaker Extraction**|Srikanth Korse et.al.|[2507.06566](http://arxiv.org/abs/2507.06566)|null|
+|**2025-07-08**|**A Fully Adaptive Frank-Wolfe Algorithm for Relatively Smooth Problems and Its Application to Centralized Distributed Optimization**|A. A. Vyguzov et.al.|[2507.05669](http://arxiv.org/abs/2507.05669)|null|
 |**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
 |**2025-06-30**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
 |**2025-06-24**|**ClearerVoice-Studio: Bridging Advanced Speech Processing Research and Practical Deployment**|Shengkui Zhao et.al.|[2506.19398](http://arxiv.org/abs/2506.19398)|null|
@@ -4835,6 +4837,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Dynamic Slimmable Networks for Efficient Speech Separation**|Mohamed Elminshawi et.al.|[2507.06179](http://arxiv.org/abs/2507.06179)|null|
+|**2025-07-08**|**DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective**|Shuo Shao et.al.|[2507.05622](http://arxiv.org/abs/2507.05622)|null|
+|**2025-07-05**|**An Efficient Detector for Faulty GNSS Measurements Detection With Non-Gaussian Noises**|Penggao Yan et.al.|[2507.03987](http://arxiv.org/abs/2507.03987)|null|
 |**2025-07-03**|**Multi-Utterance Speech Separation and Association Trained on Short Segments**|Yuzhu Wang et.al.|[2507.02562](http://arxiv.org/abs/2507.02562)|null|
 |**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
 |**2025-07-02**|**Multi-User Generative Semantic Communication with Intent-Aware Semantic-Splitting Multiple Access**|Jiayi Lu et.al.|[2507.01333](http://arxiv.org/abs/2507.01333)|null|
@@ -4869,6 +4874,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Simulation of surface x-ray emission from the ASTERICS ECR ion source**|Thomas Thuillier et.al.|[2507.06074](http://arxiv.org/abs/2507.06074)|null|
+|**2025-07-07**|**Design and Numerical Simulation of a SARA-Based RF Accelerator Using the $\mathrm{TE}_{112}$ Mode**|Tomás A. Carreño et.al.|[2507.05436](http://arxiv.org/abs/2507.05436)|null|
+|**2025-07-06**|**Optimal Sizing and Control of a Grid-Connected Battery in a Stacked Revenue Model Including an Energy Community**|Tudor Octavian Pocola et.al.|[2507.04343](http://arxiv.org/abs/2507.04343)|null|
+|**2025-07-05**|**Navigating Speech Recording Collections with AI-Generated Illustrations**|Sirina Håland et.al.|[2507.04182](http://arxiv.org/abs/2507.04182)|null|
 |**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|
 |**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim et.al.|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
 |**2025-07-01**|**Research on Improving the High Precision and Lightweight Diabetic Retinopathy Detection of YOLOv8n**|Fei Yuhuan et.al.|[2507.00780](http://arxiv.org/abs/2507.00780)|null|
