@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**SC-TSE: Speaker Consistency-Aware Target Speaker Extraction**|Shu Wu et.al.|[2507.09510](http://arxiv.org/abs/2507.09510)|null|
+|**2025-07-14**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773](http://arxiv.org/abs/2507.08773)|null|
 |**2025-07-09**|**Training Strategies for Modality Dropout Resilient Multi-Modal Target Speaker Extraction**|Srikanth Korse et.al.|[2507.06566](http://arxiv.org/abs/2507.06566)|null|
 |**2025-07-08**|**A Fully Adaptive Frank-Wolfe Algorithm for Relatively Smooth Problems and Its Application to Centralized Distributed Optimization**|A. A. Vyguzov et.al.|[2507.05669](http://arxiv.org/abs/2507.05669)|null|
 |**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
@@ -4837,6 +4839,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Low-Power Wake-Up Signal Design in 3GPP 5G-Advanced Release 19**|Sebastian Wagner et.al.|[2507.10207](http://arxiv.org/abs/2507.10207)|null|
+|**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Samson Yu et.al.|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
+|**2025-07-13**|**Knowing When to Quit: Probabilistic Early Exits for Speech Separation**|Kenny Falkær Olsen. Mads Østergaard et.al.|[2507.09768](http://arxiv.org/abs/2507.09768)|null|
+|**2025-07-15**|**Scaling and Multi-scaling Laws and Meta-Graph Reconstruction in Laplacian Renormalization of Complex Networks**|Cook Hyun Kim et.al.|[2507.08893](http://arxiv.org/abs/2507.08893)|null|
+|**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
+|**2025-07-11**|**Enforcing Speech Content Privacy in Environmental Sound Recordings using Segment-wise Waveform Reversal**|Modan Tailleur et.al.|[2507.08412](http://arxiv.org/abs/2507.08412)|null|
+|**2025-07-10**|**In situ impedance spectroscopy tests of Li $_{4-x}$Ge$_{1-x}$P$_x$O$_4$ as potential solid state electrolyte for Micro Li ion Batteries**|Mohammadhossein Montazerian et.al.|[2507.07720](http://arxiv.org/abs/2507.07720)|null|
+|**2025-07-10**|**Demonstration of TFTs 3D Monolithically Integrated on GaN HEMTs using Cascode Configuration with High Breakdown Voltage (>1900V)**|Tian-Li Wu et.al.|[2507.07512](http://arxiv.org/abs/2507.07512)|null|
+|**2025-07-09**|**Audio-Visual Speech Separation via Bottleneck Iterative Network**|Sidong Zhang et.al.|[2507.07270](http://arxiv.org/abs/2507.07270)|null|
 |**2025-07-08**|**Dynamic Slimmable Networks for Efficient Speech Separation**|Mohamed Elminshawi et.al.|[2507.06179](http://arxiv.org/abs/2507.06179)|null|
 |**2025-07-08**|**DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective**|Shuo Shao et.al.|[2507.05622](http://arxiv.org/abs/2507.05622)|null|
 |**2025-07-05**|**An Efficient Detector for Faulty GNSS Measurements Detection With Non-Gaussian Noises**|Penggao Yan et.al.|[2507.03987](http://arxiv.org/abs/2507.03987)|null|
@@ -4874,6 +4885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Rapid MRI-Based Synthetic CT Simulations for Precise tFUS Targeting**|Hengyu Gao et.al.|[2507.08688](http://arxiv.org/abs/2507.08688)|null|
 |**2025-07-08**|**Simulation of surface x-ray emission from the ASTERICS ECR ion source**|Thomas Thuillier et.al.|[2507.06074](http://arxiv.org/abs/2507.06074)|null|
 |**2025-07-07**|**Design and Numerical Simulation of a SARA-Based RF Accelerator Using the $\mathrm{TE}_{112}$ Mode**|Tomás A. Carreño et.al.|[2507.05436](http://arxiv.org/abs/2507.05436)|null|
 |**2025-07-06**|**Optimal Sizing and Control of a Grid-Connected Battery in a Stacked Revenue Model Including an Energy Community**|Tudor Octavian Pocola et.al.|[2507.04343](http://arxiv.org/abs/2507.04343)|null|
