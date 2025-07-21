@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4816,7 +4816,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-13**|**SC-TSE: Speaker Consistency-Aware Target Speaker Extraction**|Shu Wu et.al.|[2507.09510](http://arxiv.org/abs/2507.09510)|null|
-|**2025-07-14**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773](http://arxiv.org/abs/2507.08773)|null|
+|**2025-07-16**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773](http://arxiv.org/abs/2507.08773)|null|
 |**2025-07-09**|**Training Strategies for Modality Dropout Resilient Multi-Modal Target Speaker Extraction**|Srikanth Korse et.al.|[2507.06566](http://arxiv.org/abs/2507.06566)|null|
 |**2025-07-08**|**A Fully Adaptive Frank-Wolfe Algorithm for Relatively Smooth Problems and Its Application to Centralized Distributed Optimization**|A. A. Vyguzov et.al.|[2507.05669](http://arxiv.org/abs/2507.05669)|null|
 |**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
@@ -4839,6 +4839,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**AVFSNet: Audio-Visual Speech Separation for Flexible Number of Speakers with Multi-Scale and Multi-Task Learning**|Daning Zhang et.al.|[2507.12972](http://arxiv.org/abs/2507.12972)|null|
+|**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
+|**2025-07-16**|**Bose-Hubbard model in the presence of artificial magnetic fields: Ground state and thermal phase diagrams**|Mohammadamin Jaberi et.al.|[2507.11914](http://arxiv.org/abs/2507.11914)|null|
+|**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
 |**2025-07-14**|**Low-Power Wake-Up Signal Design in 3GPP 5G-Advanced Release 19**|Sebastian Wagner et.al.|[2507.10207](http://arxiv.org/abs/2507.10207)|null|
 |**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Samson Yu et.al.|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
 |**2025-07-13**|**Knowing When to Quit: Probabilistic Early Exits for Speech Separation**|Kenny Falkær Olsen. Mads Østergaard et.al.|[2507.09768](http://arxiv.org/abs/2507.09768)|null|
